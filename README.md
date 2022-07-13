@@ -18,7 +18,7 @@ CitiBikes are used most during rush hour times.  Below is a chart showing usage 
 This hypothesis is also supported by a line chart showing almost all bike 'rentals' are under half an hour, and most bikes are only used for under 10 minutes.  This means they are not being used for excercise or sightseeing.
 ![line_graph](https://github.com/MXV0921/Citibike_project/blob/main/Images/line_graph_usage.png)
 
-The largest number of users are male and the majority of them are subscribers to the Citibike program on Weekdays.
+The largest number of users are male and the majority of them are subscribers to the Citibike program, using the bikes on Weekdays.
 ![piechart](https://github.com/MXV0921/Citibike_project/blob/main/Images/by_gender.png)
 ![gender_daily_usage](https://github.com/MXV0921/Citibike_project/blob/main/Images/subscribers.png)
 
