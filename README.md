@@ -37,9 +37,9 @@ There is a high likelihood that the data we received was corrupt, as seen in our
 
 ### Moving Ahead
 If our company does decide to move forward, we should focus our marketing towards males, as they are the largest users and account for over 65% of all rides taken.  
-![by_gender](link)
+
 
 
 ### Links to Tableau Dashboard
 CitiBike Challenge
-![link to dashboard](https://public.tableau.com/app/profile/mark.vogel/viz/Citibike_Challenge_16572293275230/Story1)
+[Link to Public Tableau Dashboard](https://public.tableau.com/app/profile/mark.vogel/viz/Citibike_Challenge_16572293275230/Story1)
